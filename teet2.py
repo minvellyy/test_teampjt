@@ -1,1 +1,7 @@
-hello('헬로')
+hello('hello')
+hello('hello')
+hello('hello')
+hello('hello')
+hello('hello')
+hello('hello')
+hello('hello')
